@@ -1,11 +1,8 @@
 .idea/
-.vscode/
 
 __pycache__/
-*.py[cod]
-*$py.class
-
-*.sqlite3
-env/
-venv/
-.venv/
+*.pyc
+*.pot
+*.log
+local_settings.py
+/static/
